@@ -1,7 +1,16 @@
 # Cyclops_Extruder
 
-The overarching objective of this project is to assert control over the outcome through a streamlined update process. To achieve this, we propose maintaining a single designated version at any given time, ensuring that only one version is actively pushed for testing and development. This unified approach will serve as the primary version that the team collectively agrees to work on and contribute to.
-
-Additionally, we recommend the creation of branches, with each team member working on a dedicated branch for experimental purposes. These individual branches will serve as playgrounds for exploration, allowing team members to venture into specific directions such as the integration of add-ons like a filament sensor, a cutter, and other enhancements.
-
-Moreover, the project encompasses the flexibility to create and maintain versions tailored for different printers. Team members can branch the main version to develop and refine features specifically for the printers they are working on. This adaptive approach ensures that the project can cater to the diverse needs of various printer models while still adhering to the principle of maintaining one actively developed version for collaboration. The ultimate goal is to harmonize the development process, ensuring a cohesive and controlled outcome while encouraging creative exploration and adaptation for different printer configurations.
+The D3vil Designs "Cyclops" extruder was specifically engineered to address issues
+associated with the stock Creality K1 / K1 Max extruder. Not only is the Cyclops a seamless
+direct drop-in upgrade, but it also draws on proven technology from the Orbiter 2 project.
+This integration enables the Cyclops to inherit superior functionality and performance
+improvements, including but not limited to:
+● Retraction speeds up to 120 mm/s
+● Acceleration up to 3000 mm/s^2
+● A powerful LDO Motor
+● Large precise drive wheels for increased filament grip
+● Improved and direct filament path to meet your needs (PLA, PETG, ASA, ABS, TPU, etc.)
+This document serves as a reference guide. For optimal results, users must exercise care
+and attentiveness during the assembly and installation processes. Neglecting to adhere
+to the provided instructions may lead to suboptimal performance.
+Note: This extruder requires root access to your printer.cfg in klipper.
