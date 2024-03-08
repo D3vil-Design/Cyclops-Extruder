@@ -1,1 +1,7 @@
-# Cyclops-Extruder
+# Cyclops_Extruder
+
+The overarching objective of this project is to assert control over the outcome through a streamlined update process. To achieve this, we propose maintaining a single designated version at any given time, ensuring that only one version is actively pushed for testing and development. This unified approach will serve as the primary version that the team collectively agrees to work on and contribute to.
+
+Additionally, we recommend the creation of branches, with each team member working on a dedicated branch for experimental purposes. These individual branches will serve as playgrounds for exploration, allowing team members to venture into specific directions such as the integration of add-ons like a filament sensor, a cutter, and other enhancements.
+
+Moreover, the project encompasses the flexibility to create and maintain versions tailored for different printers. Team members can branch the main version to develop and refine features specifically for the printers they are working on. This adaptive approach ensures that the project can cater to the diverse needs of various printer models while still adhering to the principle of maintaining one actively developed version for collaboration. The ultimate goal is to harmonize the development process, ensuring a cohesive and controlled outcome while encouraging creative exploration and adaptation for different printer configurations.
