@@ -5,6 +5,7 @@
 Added 1.9.1 body , and tensioner arm for better print 
 also added extra spacer that help in some cases where the gear are not tight fit and slides around 
 Special thanks to "intensivecarebear80" ( discord User ) for the help in refining the designs and introducing the PTFE holder.
+
 ----------
 
 The D3vil Designs "Cyclops" extruder was specifically engineered to address issues
